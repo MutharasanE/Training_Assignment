@@ -1,2 +1,3 @@
 Some information here.
 Added Informatiom.
+Merge conflict from master.
