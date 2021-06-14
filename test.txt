@@ -1,3 +1,4 @@
 Some information here.
 Added Informatiom.
 Merge conflict from master.
+Merge conflict from feature
