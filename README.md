@@ -1,7 +1,7 @@
 # Training_Assignment
-1.git init - initialize local repository
-1.touch test.txt
-1.Edited test.txt
+i.git init - initialize local repository
+ii.touch test.txt
+iii.Edited test.txt
 1.touch .gitignore - empty gitignore(This can avoid unwanted files)
 1.git add . (Staged of all files in master)
 1.git commit (Commit in master)
