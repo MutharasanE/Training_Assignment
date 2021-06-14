@@ -1,5 +1,5 @@
 # Training_Assignment
-1. git init - initialize local repository
+1. 'git init' - initialize local repository
 1. touch test.txt
 1. Edited test.txt
 1. touch .gitignore - empty gitignore(This can avoid unwanted files)
